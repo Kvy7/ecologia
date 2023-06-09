@@ -1,0 +1,26 @@
+input {
+    display: inline-block;
+    padding: 8px 12px;
+    background-color: transparent;
+    /*background-color: #d8f0ca;*/
+    color: #0a0a0a; 
+    font-weight: bold;
+    border-radius: 4px;
+    vertical-align: middle;
+    border: 2px solid rgb(116, 247, 104);
+  }
+  
+
+  .custom-label {
+    color: rgb(27, 26, 26); 
+    font-size: 20px; 
+    display: inline-block;
+  }
+  
+  
+  body {
+   background-image: url("1.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+
